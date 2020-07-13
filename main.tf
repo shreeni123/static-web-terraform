@@ -1,2 +1,4 @@
-provider aws {
-  version = ~
+provider "aws" {
+  version = "~> 2.0"
+  region  = var.region
+}

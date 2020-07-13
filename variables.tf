@@ -1,5 +1,5 @@
 variable env {
-  description = Depolyment environment
+  description = Deployment environment
   default     = dev
 }
 
